@@ -1,15 +1,1 @@
-# My Computer Engineering Portfolio
-Welcome to my digital space. Here, I document my learning journey and projects.
-
-### Blog Posts & Project Reflections
-* [Post 1: Semester Reflection](readme.md)
-* [Post 2: Database Systems Insights](post2.md)
-* [Post 3: Pharmacy Management System](post3.md)
-* [Post 4: GuardianAI Portal](post4.md)
-* [Post 5: Khana Express Super App](post5.md)
-* [Post 6: Railway Reservation DFD](post6.md)
-* [Post 7: Database Normalization](post7.md)
-* [Post 8: PHP & Database Connectivity](post8.md)
-* [Post 9: C# Windows Forms](post9.md)
-* [Post 10: OOP & Data Design](post10.md)
-* [Post 11: Database Security](post11.md)
+As the semester draws to a close, I find myself reflecting on a journey that was as challenging as it was enlightening. As a student of Computer Engineering, it is easy to fall into the trap of believing that simply writing code is enough, but true learning comes when you document your work and understand the underlying logic behind it. This semester, my mentor and professor, Dr. Bilal Ahmad, pushed us beyond the boundaries of our syllabus and prepared us to solve real-world problems. Dr. Bilal Ahmad, a professor at the UET Lahore, Faisalabad campus, has a teaching style that is truly distinctive. He emphasized the importance of mastering fundamental subjects like Programming Fundamentals and Database Systems. His belief is that an engineer only excels when they learn to tackle complex problems. His expertise in AI, ML, and DL model training is often evident in his lectures. He consistently challenges us to work on problems that have real-world value, often pushing us to utilize medical datasets because they are collected with such high precision and accuracy. Admittedly, this semester was not easy. If I am being honest, the final week of exams felt like a grueling trial. Between managing pending assignments and quizzes for DLD, Database, and OOP, I was under immense pressure. There were days we left early and barely found time to eat. This intensity was largely because I did not prepare early enough—a mistake I believe every student makes at some point. However, this was a lesson learned the hard way. I have now realized that consistency is the key to success, and I am determined to manage my tasks more effectively in the future. Under the guidance of Dr. Bilal Ahmad, I have learned that merely studying theory is insufficient; showcasing one's work is equally vital. To learn more about his professional work and research, you can visit his Google Scholar profile. I am documenting all my learnings and projects from this semester on my GitHub portfolio blog to build a lasting digital footprint. This is not just for me, but for every student who seeks to learn and grow. #MLwithDrBilalAhmad #DrBilalAhmad #MLProject
